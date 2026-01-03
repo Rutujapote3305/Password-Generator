@@ -9,7 +9,7 @@ A simple yet effective tool for generating secure, randomized passwords at the c
 ## Tech Stack
 - **HTML5:** Basic UI structure.
 - **CSS3:** Custom styling featuring rounded corners, drop shadows, and a clean typography.
-- **JavaScript (Vanilla):** Core logic for generating random strings using `Math.random()` and `Math.floor()`.
+- **JavaScript:** Core logic for generating random strings using `Math.random()` and `Math.floor()`.
 
 ## How it Works
 The generator pulls from a predefined string of characters and uses a loop to pick random indices:
